@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>avrda-cnano-sensiml-fan-condition-demo</name>
+            <creation-uuid>6e8f6c52-c41b-4ad2-9b34-4bd7c58b6afe</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>../bmi160</sourceRootElem>
+                <sourceRootElem>../Icm426xx</sourceRootElem>
+                <sourceRootElem>../sensiml</sourceRootElem>
+                <sourceRootElem>../knowledgepack</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>AVR128DA48_CNANO_BMI160</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>AVR128DA48_CNANO_ICM42688</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
