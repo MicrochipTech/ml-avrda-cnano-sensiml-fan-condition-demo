@@ -1,4 +1,11 @@
+
+# MIGRATED
+# This repository is no longer maintained; this project has been moved [here](https://github.com/microchip-pic-avr-examples/avr128da48-curiosity-sensiml-fan-monitoring-mplab-mcc).
+#
+#
+
 ![https://www.microchip.com/](assets/microchip.png)
+
 # Fan Condition Monitoring with SensiML
 | ![Deployed fan condition monitor](assets/fandemo.gif) |
 | :--: |
